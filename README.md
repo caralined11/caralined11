@@ -2,7 +2,7 @@
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl5ZzgxZGxieTB2Zmh0eWgzbWh0dTd6ZnZ3ZTgxaDZteXE0c3dtaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="150"/>
 </div>
 
-Hi 👋 My name is Caraline Dufrene
+Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Caraline Dufrene
 =================================
 
 Web Developer and UX/UI Designer
